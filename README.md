@@ -1,6 +1,6 @@
 # API1
 
-This API allows you to interact with Creo Parametric using the Creoson library and CreoSetup libraries.
+This API allows you to interact with Creo Parametric using the Creoson library and CreoSetup.
 
 ## Prerequisites
 
@@ -18,6 +18,6 @@ This API allows you to interact with Creo Parametric using the Creoson library a
 
 5. Run the main with seted path to directories with creo parametick "Common Files\\text\materials-library\Standard-Materials_Granta-Design\Ferrous_metals"  and location of CAD project that you have to alter
 
--in case of error you should sestart CreoSon setup
+-in case of error you should restart CreoSon setup
 
 
